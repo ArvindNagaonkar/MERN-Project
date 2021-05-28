@@ -1,0 +1,6 @@
+{
+  "MongoURL": "mongodb+srv://arvind:arvind1234@cluster0.gwada.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "40af38acd966a1dbdc7f",
+  "githubSecret": "37cb34621cb34cf00d7cfb74f5b8ad9083b338ca"
+}
